@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Cellini.AvaloniaUI/Cellini.AvaloniaUI.csproj" />
+  <Project Path="Cellini.CLI/Cellini.CLI.csproj" />
+  <Project Path="Cellini.Core.Tests/Cellini.Core.Tests.csproj" />
+  <Project Path="Cellini.Core/Cellini.Core.csproj" />
+  <Project Path="Cellini.GUILib/Cellini.GUILib.csproj" />
+</Solution>
